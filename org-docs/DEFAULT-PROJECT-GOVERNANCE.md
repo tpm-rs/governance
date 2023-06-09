@@ -82,9 +82,10 @@ interested person.
 
 ## 4. No Confidentiality.
 
-Information disclosed in connection with any Project activity, including but not
-limited to meetings, contributions, and submissions, is not confidential,
-regardless of any markings or statements to the contrary.
+Information disclosed in connection with any Project activity, except security
+sensitive bug reports, including but not limited to meetings, contributions, and
+submissions, is not confidential, regardless of any markings or statements to
+the contrary.
 
 ## 5. Trademarks.
 

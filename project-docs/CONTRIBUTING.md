@@ -11,8 +11,9 @@ This Project welcomes contributions, suggestions, and feedback. All
 contributions, suggestions, and feedback you submitted are accepted under the
 [Project's license](./LICENSE.md). You represent that if you do not own
 copyright in the code that you have the authority to submit it under the
-[Project's license](./LICENSE.md). All feedback, suggestions, or contributions
-are NOT confidential, regardless of markings otherwise.
+[Project's license](./LICENSE.md). Other than security sensitive bug reports, any
+feedback, suggestions, or contributions are NOT confidential, regardless of markings
+otherwise.
 
 This repository tracks official TPM Library Specification releases and errata from
 the Trusted Computing Group:
