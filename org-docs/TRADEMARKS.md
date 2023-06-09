@@ -86,7 +86,8 @@ work for you are:
 * [Your software] for use with "Mark" software
 * [Your software] for Mark software
 
+# Attribution
+
 These guidelines are based on the
-[Model Trademark Guidelines](http://www.modeltrademarkguidelines.org),
-used under a
+[Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), used under a
 [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/deed.en_US)

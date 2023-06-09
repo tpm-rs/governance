@@ -14,7 +14,8 @@ methods or channels of product distribution, contracts with third-parties,
 division or allocation of markets, geographic territories, or customers, or any
 other topic that relates in any way to limiting or lessening fair competition.
 
----
-Part of MVG-0.1-beta.
-Made with love by GitHub.
+# Attribution
+
+This document adapted from MVG-0.1-beta from GitHub.
+See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).

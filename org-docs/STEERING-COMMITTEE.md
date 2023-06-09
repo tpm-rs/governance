@@ -10,12 +10,18 @@ serving on the Steering Committee because of your affiliation with another
 organization (designated below), you represent that you have authority to bind
 that organization to these policies.
 
-| **NAME** | **Handle** | **Affiliated Organization** |
-| --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+Please enter names sorted by alphabetical order.
 
----
-Part of MVG-0.1-beta.
-Made with love by GitHub.
+| **NAME** | **Handle** | **Sponsoring Organization** | **TCG Member** |
+|--------------|-----------|------------|---|
+| Brad Litterell | bradlitterell | Microsoft | yes |
+| Chris Fenner | chrisfenner | Google | yes |
+| Darren Krahn | darrenkrahn | Google | yes |
+| Dennis Mattoon | dmattoon | Microsoft | yes |
+| TCG Administration | tcgAdmin | Trusted Computing Group | yes |
+
+# Attribution
+
+This document adapted from MVG-0.1-beta from GitHub.
+See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).

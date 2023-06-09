@@ -16,7 +16,8 @@ have the authority to bind that organization to these policies.
 | Maintainer 1 | |
 | Maintainer 2 | |
 
----
-Part of MVG-0.1-beta.
-Made with love by GitHub.
+# Attribution
+
+This document adapted from MVG-0.1-beta from GitHub.
+See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).

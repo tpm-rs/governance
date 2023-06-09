@@ -1,20 +1,59 @@
-# Contributing
+# Guidelines for reporting bugs:
+
+Non-security-critical bugs can be filed by opening an Issue in GitHub.
+
+Security sensitive bugs should be reported to
+[mailto:security-tpm-rs@trustedcomputinggroup.org].
+
+# Guideline for submitting changes:
 
 This Project welcomes contributions, suggestions, and feedback. All
 contributions, suggestions, and feedback you submitted are accepted under the
 [Project's license](./LICENSE.md). You represent that if you do not own
 copyright in the code that you have the authority to submit it under the
 [Project's license](./LICENSE.md). All feedback, suggestions, or contributions
-are not confidential.
+are NOT confidential, regardless of markings otherwise.
 
-[Should be further filled in by the project - including defining the
-requirements to reach maintainer status]
+This repository tracks official TPM Library Specification releases and errata from
+the Trusted Computing Group:
+
+https://trustedcomputinggroup.org/tpm-library-specification/
+
+All changes to core TPM logic (such as new commands) must be approved by TCG
+voting members.  Github pull requests may be used to propose changes, but core
+behavior changes will not be incorporated without TCG member approval.
+
+Other changes consistent with public TPM Specifications particularly to support
+new platforms, scenarios, build environments, crypto-libraries, or bug-fixes
+will be considered if they are expected to be widely useful.
+
+Contributors that wish to be involved in the future evolution of the TPM
+specification should consider joining the Trusted Computing Group.  Information
+about membership and liaison programs is available at
+https://trustedcomputinggroup.org/membership/
+
+# Contributing
+
+This project welcomes contributions and suggestions. Most contributions require
+you to agree to a Contributor License Agreement (CLA) declaring that you have
+the right to, and actually do, grant us the rights to use your contribution. For
+details, visit
+[Contributor License Agreement](../org-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md).
+
+[TBD Details on how to sign the CLA]
+
+<!--When you submit a pull request, a CLA-bot will automatically determine whether
+you need to provide a CLA and decorate the PR appropriately (e.g., label,
+comment). Simply follow the instructions provided by the bot. You will only need
+to do this once per Project.-->
 
 The Project abides by the Organization's
-[code of conduct](../org-docs/CODE-OF-CONDUCT.md) and
-[trademark policy](../org-docs/TRADEMARKS.md).
+[trademark policy](../org-docs/TRADEMARKS.md),
+the [antitrust policy](../org-docs/ANTITRUST.md),
+the [code of conduct](../org-docs/CODE-OF-CONDUCT.md).
 
----
-Part of MVG-0.1-beta.
-Made with love by GitHub.
+# Attribution
+
+This document adapted from MVG-0.1-beta from GitHub.
+See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
