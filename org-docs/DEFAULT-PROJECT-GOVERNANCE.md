@@ -4,7 +4,7 @@ This document provides the Default Project Governance Policy for projects within
 TPM-RS GitHub Organization. Unless a project contains a separate GOVERNANCE.md
 file with different rules approved by the Steering Committee, this default set
 of Project Governance Rules apply.  Maintainers agree to this policy and to
-abide by all Organization and Project polices, including the
+abide by all Organization and Project policies, including the
 [code of conduct](../org-docs/CODE-OF-CONDUCT.md),
 [trademark policy](../org-docs/TRADEMARKS.md), and
 [antitrust policy](../org-docs/ANTITRUST.md) by adding their name to the
