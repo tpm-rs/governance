@@ -18,7 +18,9 @@ Please enter names sorted by alphabetical order.
 | Chris Fenner | chrisfenner | Google | yes |
 | Darren Krahn | darrenkrahn | Google | yes |
 | Dennis Mattoon | dmattoon | Microsoft | yes |
-| TCG Administration | tcgAdmin | Trusted Computing Group | yes |
+| TCG Executive Director | tcgAdmin | Trusted Computing Group | yes |
+
+Note: TCG Member means a member of the Trusted Computing Group.
 
 # Attribution
 
