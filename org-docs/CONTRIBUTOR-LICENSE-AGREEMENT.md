@@ -12,10 +12,9 @@ the latest signature date below.
 machine-executable form, that is delivered by You to TCG under this
 Agreement.
 
-* “Project” means any of the projects owned or managed by TCG in which
-software is offered under a license approved by the Open Source Initiative (OSI)
-(www.opensource.org) and documentation offered under an OSI or a Creative
-Commons license (https://creativecommons.org/licenses).
+* “Project” means any of the projects owned or managed by TCG in which software
+or documentation is offered under any approved license described in the
+[Charter](./CHARTER.md).
 
 * “Submit” is the act of uploading, submitting, transmitting, or distributing
 code or other content to any Project, including but not limited to communication
