@@ -145,8 +145,8 @@ In order to be eligible to be a Organization project, a project must:
   - For code, the [Apache-2.0 license](https://opensource.org/license/apache-2-0/).
   - For data, a license on the Open Knowledge Foundation's list of
     [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
-  - For specifications, a community developed and maintained specification
-    agreement, such the
+  - For specifications, subject to limits described below, a community developed
+    and maintained specification agreement, such the
     [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements)
     or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 * Include and adhere to the Organization's "Core Policies".
@@ -155,6 +155,21 @@ In order to be eligible to be a Organization project, a project must:
   the [antitrust policy](./ANTITRUST.md), and
   the [code of conduct](./CODE-OF-CONDUCT.md) and
   the [contributor license agreement](./CONTRIBUTOR-LICENSE-AGREEMENT.md)
+* Not be for the purpose of creating industry-wide specifications.
+
+**9.1 Limitations on Specification Work** The Organization exists primarily to
+implement code according to existing public specifications; creating new
+specifications is more properly a function of one or more Sponsors of the
+Origanization.  No Project in this organization will attempt to create or
+make any Specifications that would, or might seem to, modify, augment, replace,
+or compete against Specifications created or maintained by any Sponsor.  For
+illustration, and without restricting the generality of the forgoing, any
+Specifications created in one or more Projects must only address details
+specific to the implementation of one or more Projects within this Organization.
+For example, a specification regarding how two Projects communicate, (such as
+for testing), would be allowed, but producing a generic network protocol
+specification that might become an industry standard would be out of scope for
+any Project in the Organization.
 
 ## 10. Project Governance
 
@@ -172,7 +187,10 @@ Notwithstanding anything else in the Charter and Project Governance documents,
 all Steering Committee Members, Maintainers, and Contributors must agree to the
 Contributor License Agreement associated with any project they participate in.
 
-## 12. Amendments
+## 12. Specifications
+
+
+## 13. Amendments
 
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the
 [trademark policy](./TRADEMARKS.md), or the
