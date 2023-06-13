@@ -75,7 +75,8 @@ resolve potential conflicts or incompatibility between releases in this Project.
 
 **3.4. Consideration of Views and Objections**. Prompt consideration shall be
 given to the written views and objections of all Contributors.  However, final
-decisions will rest with the Maintainers.
+decisions will rest with the Maintainers and, if appealed, the Organization
+Steering Committee.
 
 **3.5. Written procedures**. This governance document and other materials
 documenting this project's development process shall be available to any
