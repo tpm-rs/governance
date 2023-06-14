@@ -187,8 +187,15 @@ Notwithstanding anything else in the Charter and Project Governance documents,
 all Steering Committee Members, Maintainers, and Contributors must agree to the
 Contributor License Agreement associated with any project they participate in.
 
-## 12. Specifications
+## 12. Not Subject To Sponsor Licenses
 
+It is intended that nothing in this Organization or this Organization's projects
+are subject to the licensing agreements of Sponsoring entities.  In particular,
+each Steering Committee Member and Maintainer agrees not to submit content
+subject to license agreements not listed in this charter, including but not
+limited to the licensing agreements between Trusted Computing Group members as
+outlined in the TCG Bylaws. Any contributor should consult with their
+appropriate legal advisor, as appropriate, before making any contribution.
 
 ## 13. Amendments
 
