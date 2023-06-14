@@ -44,6 +44,11 @@ approving Pull Requests.
 **1.3. Contributors**. Contributors are those that have made accepted
 contributions to the Organization or any Project.
 
+**1.4. Participants**. Participants in the Organization includes all Steering
+Committee Members, Maintainers, Contributors and any individiual who agrees to
+participate in the Organization's activities subject to the Organization and
+Project agreements as outlined in this charter.
+
 ## 3. Steering Committee
 
 **3.1 Purpose**. The Steering Committee will be responsible for all technical
@@ -129,11 +134,19 @@ Section 5.3 Sponsor Revocation above."
 The Steering Committee is bound by the Organization's
 [antitrust policy](./ANTITRUST.md).
 
-## 8. No Confidentiality
+## 8. Confidentiality
 
-Information disclosed in connection with any of the Organization's activities,
-including but not limited to meetings, Contributions, and submissions, is not
-confidential, regardless of any markings or statements to the contrary.
+Information publicly disclosed by the Organization in connection with any of the
+Organization's activities, including but not limited to meetings, contributions,
+and submissions, is not confidential, regardless of any markings or statements
+to the contrary.
+
+However, nothing in this section requires individual Participants to
+document or record any particular proceedings or activity related to the
+Organization or any Project for the purpose of later disclosure.
+
+Participants specifically agree to hold [security reports](./Security.md) as
+Confidential subject to the Coordinated Vulnerability Disclosure process described in the [Security Policy](./SECURITY.md).
 
 ## 9. Project Criteria
 
@@ -152,8 +165,9 @@ In order to be eligible to be a Organization project, a project must:
 * Include and adhere to the Organization's "Core Policies".
 * The Core Policies are: this TPM-RS Charter,
   the [trademark policy](./TRADEMARKS.md),
-  the [antitrust policy](./ANTITRUST.md), and
-  the [code of conduct](./CODE-OF-CONDUCT.md) and
+  the [antitrust policy](./ANTITRUST.md),
+  the [code of conduct](./CODE-OF-CONDUCT.md)
+  the [Security Policy](./SECURITY.md), and
   the [contributor license agreement](./CONTRIBUTOR-LICENSE-AGREEMENT.md)
 * Not be for the purpose of creating industry-wide specifications.
 

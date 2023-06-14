@@ -55,6 +55,7 @@ The Project abides by the Organization's
 [charter](../org-docs//CHARTER.md),
 [trademark policy](../org-docs/TRADEMARKS.md),
 [antitrust policy](../org-docs/ANTITRUST.md),
+the [Security Policy](./SECURITY.md),
 and [code of conduct](../org-docs/CODE-OF-CONDUCT.md).
 
 # Attribution
