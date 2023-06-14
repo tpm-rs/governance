@@ -15,23 +15,26 @@ copyright in the code that you have the authority to submit it under the
 feedback, suggestions, or contributions are NOT confidential, regardless of markings
 otherwise.
 
-This repository tracks official TPM Library Specification releases and errata from
-the Trusted Computing Group:
+This Project implements official public TPM Library Specification releases and
+errata from the Trusted Computing Group ("TCG") along with related supplementary
+tools and libraries:
 
 https://trustedcomputinggroup.org/tpm-library-specification/
 
-All changes to core TPM logic (such as new commands) must be approved by TCG
-voting members.  Github pull requests may be used to propose changes, but core
-behavior changes will not be incorporated without TCG member approval.
+Suggestions to revise TCG publications (e.g. the addition of new commands or
+language in the TCG TPM Library specification) must first be approved by TCG
+voting members and published in a TCG Specification.  Relevant suggestions
+should be directed towards the TPM working group within the TCG via
+mailto:admin@trustedcomputinggroup.org.
 
 Other changes consistent with public TPM Specifications particularly to support
 new platforms, scenarios, build environments, crypto-libraries, or bug-fixes
 will be considered if they are expected to be widely useful.
 
-Contributors that wish to be involved in the future evolution of the TPM
-specification should consider joining the Trusted Computing Group.  Information
+Contributors that wish to be involved in the future evolution of the TPM and related
+specifications should consider joining the Trusted Computing Group.  Information
 about membership and liaison programs is available at
-https://trustedcomputinggroup.org/membership/
+https://trustedcomputinggroup.org/membership/.
 
 # Contributing
 
@@ -49,9 +52,10 @@ comment). Simply follow the instructions provided by the bot. You will only need
 to do this once per Project.-->
 
 The Project abides by the Organization's
+[charter](../org-docs//CHARTER.md),
 [trademark policy](../org-docs/TRADEMARKS.md),
-the [antitrust policy](../org-docs/ANTITRUST.md),
-the [code of conduct](../org-docs/CODE-OF-CONDUCT.md).
+[antitrust policy](../org-docs/ANTITRUST.md),
+and [code of conduct](../org-docs/CODE-OF-CONDUCT.md).
 
 # Attribution
 
