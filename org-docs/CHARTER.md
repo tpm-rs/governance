@@ -197,7 +197,18 @@ limited to the licensing agreements between Trusted Computing Group members as
 outlined in the TCG Bylaws. Any contributor should consult with their
 appropriate legal advisor, as appropriate, before making any contribution.
 
-## 13. Amendments
+## 13. Sponsorship Review
+
+In consideration of the resources provided to the Organization from any active
+Sponsor(s), the Steering Committee shall, at least annually, provide a written
+review of the Organizations' status and progress to such active Sponsors.  Such
+review may be provided in any form the Steering Committee may from time to time
+determine, such as by posting a review summary in the Organization's GitHub
+Wiki, or submitting documents to a Project repo.  Sponsorship Review documents
+are NOT confidential, in accordance with the No Confidentiality clause of this
+charter.
+
+## 14. Amendments
 
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the
 [trademark policy](./TRADEMARKS.md), or the
