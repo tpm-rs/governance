@@ -1,13 +1,19 @@
 # Steering Committee
 
-This document lists the members of the Project's Steering Committee. Voting
+This document lists the members of the TPM-RS Steering Committee. Voting
 members may be added once approved by the Steering Committee as described in the
-[charter](./CHARTER.md). By adding your name to this list you are agreeing to
-abide by all Project policies, including the [charter](./CHARTER.md), the
-[code of conduct](./CODE-OF-CONDUCT.md), the [trademark
-policy](./TRADEMARKS.md), and the [antitrust policy](./ANTITRUST.md). If you are
-serving on the Steering Committee because of your affiliation with another
-organization (designated below), you represent that you have authority to bind
+[TPM-RS Charter]. By adding your name to this list you are agreeing to
+abide by all Project policies including the
+
+* [TPM-RS Charter],
+* [Trademark Policy],
+* [Antitrust Policy],
+* [Code of Conduct],
+* [Security Policy], and
+* the [Contributor License Agreement].
+
+If you are serving on the Steering Committee because of your affiliation with a Sponsoring
+Organization (designated below), you represent that you have authority to bind
 that organization to these policies.
 
 Please enter names sorted by alphabetical order.
@@ -20,10 +26,23 @@ Please enter names sorted by alphabetical order.
 | Dennis Mattoon | dmattoon | Microsoft | yes |
 | TCG Executive Director | tcgAdmin | Trusted Computing Group | yes |
 
-Note: TCG Member means a member of the Trusted Computing Group.
+Notes:
+
+1. TCG Member means a member of the Trusted Computing Group.
+2. Sponsored Seats may be vacated, but are only removed permanently by the process
+described in the Charter.
 
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
+
+
+[Antitrust Policy]: ./ANTITRUST.md
+[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
+[Code of Conduct]: ./CODE-OF-CONDUCT.md
+[Contributor License Agreement]: ./CONTRIBUTOR-LICENSE-AGREEMENT.md
+[Security Policy]: ./SECURITY.md
+[TPM-RS Charter]: ./CHARTER.md
+[Trademark Policy]: ./TRADEMARKS.md

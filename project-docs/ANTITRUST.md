@@ -17,5 +17,7 @@ other topic that relates in any way to limiting or lessening fair competition.
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
+
+[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/

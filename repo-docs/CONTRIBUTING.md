@@ -3,29 +3,28 @@
 Non-security-critical bugs can be filed by opening an Issue in GitHub.
 
 Security sensitive bugs should be reported to
-[mailto:security-tpm-rs@trustedcomputinggroup.org].
+[security-tpm-rs@trustedcomputinggroup.org].
+Please refer to the [Security Policy] for more info.
 
 # Guideline for submitting changes:
 
 This Repo welcomes contributions, suggestions, and feedback. All
 contributions, suggestions, and feedback you submitted are accepted under the
-[Repo's license](./LICENSE.md). You represent that if you do not own
+[Repo's license]. You represent that if you do not own
 copyright in the code that you have the authority to submit it under the
-[Repo's license](./LICENSE.md). Other than security sensitive bug reports, any
+[Repo's license]. Other than security sensitive bug reports, any
 feedback, suggestions, or contributions are NOT confidential, regardless of markings
 otherwise.
 
-This Repo implements official public TPM Library Specification releases and
-errata from the Trusted Computing Group ("TCG") along with related supplementary
-tools and libraries:
-
-https://trustedcomputinggroup.org/tpm-library-specification/
+This Repo implements official public [TPM Library Specification] releases and
+errata from the [Trusted Computing Group] ("TCG") along with related supplementary
+tools and libraries.
 
 Suggestions to revise TCG publications (e.g. the addition of new commands or
 language in the TCG TPM Library specification) must first be approved by TCG
 voting members and published in a TCG Specification.  Relevant suggestions
 should be directed towards the TPM working group within the TCG via
-mailto:admin@trustedcomputinggroup.org.
+[admin@trustedcomputinggroup.org].
 
 Other changes consistent with public TPM Specifications particularly to support
 new platforms, scenarios, build environments, crypto-libraries, or bug-fixes
@@ -33,8 +32,7 @@ will be considered if they are expected to be widely useful.
 
 Contributors that wish to be involved in the future evolution of the TPM and related
 specifications should consider joining the Trusted Computing Group.  Information
-about membership and liaison programs is available at
-https://trustedcomputinggroup.org/membership/.
+about membership and liaison programs is available at [TCG Membership].
 
 # Contributing
 
@@ -42,7 +40,7 @@ This repository welcomes contributions and suggestions. Most contributions requi
 you to agree to a Contributor License Agreement (CLA) declaring that you have
 the right to, and actually do, grant us the rights to use your contribution. For
 details, visit
-[Contributor License Agreement](../project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md).
+[Contributor License Agreement].
 
 [TBD Details on how to sign the CLA]
 
@@ -51,15 +49,37 @@ you need to provide a CLA and decorate the PR appropriately (e.g., label,
 comment). Simply follow the instructions provided by the bot. You will only need
 to do this once per Repo.-->
 
-The Repo abides by the Project's
-[charter](../project-docs//CHARTER.md),
-[trademark policy](../project-docs/TRADEMARKS.md),
-[antitrust policy](../project-docs/ANTITRUST.md),
-the [Security Policy](./SECURITY.md),
-and [code of conduct](../project-docs/CODE-OF-CONDUCT.md).
+The Repo abides by the:
+
+* [TPM-RS Charter],
+* [Trademark Policy],
+* [Antitrust Policy],
+* [Code of Conduct],
+* [Security Policy], and
+* the [Contributor License Agreement]
 
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+See [Attribution and Acknowledgements].
+Licensed under the [CC-BY 4.0 License].
+
+[admin@trustedcomputinggroup.org]: mailto:admin@trustedcomputinggroup.org
+[Antitrust Policy]: ./ANTITRUST.md
+[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
+[Code of Conduct]: ../project-docs/CODE-OF-CONDUCT.md
+[Community Specification Agreement]: https://github.com/CommunitySpecification/1.0.
+[Contributor License Agreement]: ../project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md
+[Default Repo Governance Policy]: ../project-docs/DEFAULT-REPOSITORY-GOVERNANCE.md
+[Open Web Foundation Agreements]: https://www.openwebfoundation.org/the-agreements
+[Recommended Conformant Licenses]: http://opendefinition.org/licenses
+[Security Policy]: ../project-docs/SECURITY.md
+[TPM-RS Charter]: ../project-docs/CHARTER.md
+[Trademark Policy]: ../project-docs/TRADEMARKS.md
+[Repo's license]: ./LICENSE.md
+[security-tpm-rs@trustedcomputinggroup.org]: mailto:security-tpm-rs@trustedcomputinggroup.org
+[TPM-RS]: https://github.com/TPM-RS
+[Trusted Computing Group]: https://github.com/TrustedComputingGroup
+[TPM Library Specification]: https://trustedcomputinggroup.org/tpm-library-specification/
+[TCG Membership]: https://trustedcomputinggroup.org/membership/.

@@ -88,6 +88,8 @@ work for you are:
 
 # Attribution
 
-These guidelines are based on the
-[Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), used under a
-[Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/deed.en_US)
+These guidelines are based on the [Model Trademark Guidelines], used under a
+[Creative Commons Attribution 3.0 Unported license].
+
+[Model Trademark Guidelines]: http://www.modeltrademarkguidelines.org
+[Creative Commons Attribution 3.0 Unported license]: https://creativecommons.org/licenses/by/3.0/deed.en_US

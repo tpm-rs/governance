@@ -14,7 +14,7 @@ Agreement.
 
 * “Project” means any of the repositories owned or managed by the TPM-RS Github
 Project in which software or documentation is offered under any approved
-license described in the [TPM-RS Charter](./CHARTER.md).
+license described in the [TPM-RS Charter].
 
 * “Submit” is the act of uploading, submitting, transmitting, or distributing
 code or other content to any Project, including but not limited to communication
@@ -94,7 +94,7 @@ MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
 7. Notice to TCG. You agree to notify TCG in writing of any facts or
 circumstances of which You later become aware that would make Your
 representations in this Agreement inaccurate in any respect.  TCG may be reached
-at [mailto:tpm-rs@trustedcomputinggroup.org]
+at [tpm-rs@trustedcomputinggroup.org]
 
 8. Information about Submissions. You agree that contributions to Projects and
 information about contributions may be maintained indefinitely and disclosed
@@ -145,5 +145,8 @@ Address: ______________________________________
 
 # Attribution
 
-This document adapted from Microsoft CLA
-See https://opensource.microsoft.com/cla/
+This document adapted from [Microsoft CLA].
+
+[Microsoft CLA]: https://opensource.microsoft.com/cla/
+[TPM-RS Charter]: ./CHARTER.md
+[tpm-rs@trustedcomputinggroup.org]: mailto:tpm-rs@trustedcomputinggroup.org

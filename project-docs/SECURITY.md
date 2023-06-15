@@ -2,8 +2,8 @@
 
 Trusted Security Group (TCG) takes the security of our software products and
 services seriously, which includes all source code repositories managed through
-our GitHub organizations, which include [TPM-RS](...), and
-[Trusted Computing Group](https://github.com/TrustedComputingGroup).
+our GitHub organizations, which include [TPM-RS], and
+[Trusted Computing Group].
 
 If you believe you have found a security vulnerability in any Trusted Computing
 Group specification or code repository, please report it to us as described
@@ -18,8 +18,8 @@ private email to:
 
 | GitHub Organization | Contact Email |
 | --- | --- |
-| [Trusted Computing Group ](https://github.com/TrustedComputingGroup) | security@trustedcomputinggroup.org |
-| [TPM-RS](https://github.com/TPM-RS) | security-tpm-rs@trustedcomputinggroup.org |
+| [Trusted Computing Group] | [security@trustedcomputinggroup.org] |
+| [TPM-RS] | [security-tpm-rs@trustedcomputinggroup.org] |
 
 You should receive a response within one business day. If for some reason you do
 not, please follow up via email to ensure we received your original message.
@@ -53,7 +53,7 @@ disclosure of a potential vulnerability before mitigations are deployed could
 allow adversaries to exploit the vulnerability.
 
 Additional information can be found at
-[TCG Vulnerability Disclosure Policy](https://trustedcomputinggroup.org/about/security/).
+[TCG Vulnerability Disclosure Policy].
 
 ## Disclaimer
 
@@ -64,3 +64,9 @@ without notice at any time and on a case-by-case basis.  Response is not
 guaranteed for any specific issue or class of issues. Your use of the
 information in this Policy or materials linked from the Policy is at your own
 risk.
+
+[security-tpm-rs@trustedcomputinggroup.org]: mailto:security-tpm-rs@trustedcomputinggroup.org
+[security@trustedcomputinggroup.org]: mailto:security@trustedcomputinggroup.org
+[TCG Vulnerability Disclosure Policy]: https://trustedcomputinggroup.org/about/security
+[TPM-RS]: https://github.com/TPM-RS
+[Trusted Computing Group]: https://github.com/TrustedComputingGroup
