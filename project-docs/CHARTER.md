@@ -1,60 +1,60 @@
-# Charter for the TPM-RS Organization
+# Charter for the TPM-RS Project
 
-This is the organizational charter for the TPM-RS GitHub Organization (the
-"Organization"). By adding their name to the
+This is the organizational charter for the TPM-RS Project (the
+"Project"). By adding their name to the
 [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members
 agree as follows.
 
 ## 1. Sponsorship
 
-"Sponsorship" in the context of this Organization means providing any resources
-to the Organization directly (such as GitHub resources), or to individual
-Members or contributors (such as employment).  The intent of this Organization
+"Sponsorship" in the context of this Project means providing any resources
+to the Project directly (such as GitHub resources), or to individual
+Members or contributors (such as employment).  The intent of this Project
 is to function as an Open Source Community including contributions and providing
 benefits to the community at large, beyond companies and other organizations
-providing resources to the Organization as Sponsors.
+providing resources to the Project as Sponsors.
 
 ## 2. Mission
 
-The TPM-RS GitHub Organization exists to organize and manage a set of related,
-Open-Source projects sponsored by the Trusted Computing Group (TCG) and created
+The TPM-RS Project exists to organize and manage a set of related,
+Open-Source repositories ("Repos") sponsored by the Trusted Computing Group (TCG) and created
 by TCG Promoter & Contributor Members
 
-The Mission of the TPM-RS GitHub Organization is to support the development of
+The Mission of the TPM-RS Project is to support the development of
 TPM-related firmware and tools primarily using the Rust language.  This
 preference for the Rust langauge is based on its memory-safety properties, but
 our Mission does not preclude the use of other languages for any use the
-Steering Committee or project Maintainers may from time-to-time approve.
+Steering Committee or Repo Maintainers may from time-to-time approve.
 
 ## 3. Roles.
 
-This Organization may include the following roles. Additional roles may be
-adopted and documented by individual Projects as described in Project Governance
+This Project may include the following roles. Additional roles may be
+adopted and documented by individual Repos as described in Repo Governance
 below.
 
 **1.1. Steering Committee Members** The Steering Committee Members are
-responsible for all technical oversight, project approval and oversight, policy
-oversight, and trademark management for the Organization.
+responsible for all technical oversight, Repo approval and oversight, policy
+oversight, and trademark management for the Project.
 
 **1.2. Maintainers**. Maintainers are responsible for organizing activities
-around developing, maintaining, and updating individual Projects. Maintainers
-are also responsible for determining consensus on Project actions, such as
+around developing, maintaining, and updating individual Repos. Maintainers
+are also responsible for determining consensus on Repo actions, such as
 approving Pull Requests.
 
 **1.3. Contributors**. Contributors are those that have made accepted
-contributions to the Organization or any Project.
+contributions to the Project or any Repo.
 
-**1.4. Participants**. Participants in the Organization includes all Steering
+**1.4. Participants**. Participants in the Project includes all Steering
 Committee Members, Maintainers, Contributors and any individiual who agrees to
-participate in the Organization's activities subject to the Organization and
-Project agreements as outlined in this charter.
+participate in the Project's activities subject to the Project and
+Repo agreements as outlined in this charter.
 
 ## 3. Steering Committee
 
 **3.1 Purpose**. The Steering Committee will be responsible for all technical
-oversight, project approval and oversight, policy oversight, and trademark
-management for the Organization.  Sponsoring companies may influence the
-direction of the Organization through the Steering Committee as described below,
+oversight, Repo approval and oversight, policy oversight, and trademark
+management for the Project.  Sponsoring companies may influence the
+direction of the Project through the Steering Committee as described below,
 but the Steering Committee is not limited to Sponsored individuals and entities.
 Non-sponsored Community contributors may be included in the Steering Committee
 from time to time at the Steering Committee's discretion as described below.
@@ -105,24 +105,24 @@ that Sponsoring company may remove or replace such Steering Committee member
 without a vote with written notice to the Steering Committee.  A member so
 removed or replaced (for example due to change in employment status) remains
 eligible to be elected to the Steering Committee in an individual capacity as
-provided in section 3.2
+provided in section 3.2.
 
 ## 6. Trademarks
 
 Any names, trademarks, service marks, logos, mascots, or similar indicators of
 source or origin and the goodwill associated with them arising out of the
-Organization's activities or Organization projects' activities (the "Marks"),
-are controlled by the Organization. Steering Committee members may only use the
-Marks in accordance with the Organization's [trademark policy](./TRADEMARKS.md).
+Project's activities or Project Repos' activities (the "Marks"),
+are controlled by the Project. Steering Committee members may only use the
+Marks in accordance with the Project's [trademark policy](./TRADEMARKS.md).
 If a Steering Committee member is terminated or removed from the Steering
 Committee, any rights the Steering Committee member may have in the Marks revert
-to the Organization.
+to the Project.
 
 Any names, trademarks, service marks, logos, mascots, or similar indicators of
 goodwill (the "Sponsor Marks") associated with any entity Sponsoring the
-Organization, any Steering Committee member, and/or any other contributor to any
-project under the Organization's charter remain the property of such Sponsoring
-entity.  No contributor or member of the Organization may use Sponsor Marks
+Project, any Steering Committee member, and/or any other contributor to any
+Repo under the Project's charter remain the property of such Sponsoring
+entity.  No contributor or participant of the Project may use Sponsor Marks
 without explicit, separate permission from such entity.  The only exception to
 this rule is using the name of the sponsoring entity in the
 [Steering Committee.md file](./STEERING-COMMITTEE.md) to designate Steering Committee
@@ -131,26 +131,26 @@ Section 5.3 Sponsor Revocation above."
 
 ## 7. Antitrust Policy
 
-The Steering Committee is bound by the Organization's
+The Steering Committee is bound by the Project's
 [antitrust policy](./ANTITRUST.md).
 
 ## 8. Confidentiality
 
-Information publicly disclosed by the Organization in connection with any of the
-Organization's activities, including but not limited to meetings, contributions,
+Information publicly disclosed by the Project in connection with any of the
+Project's activities, including but not limited to meetings, contributions,
 and submissions, is not confidential, regardless of any markings or statements
 to the contrary.
 
 However, nothing in this section requires individual Participants to
 document or record any particular proceedings or activity related to the
-Organization or any Project for the purpose of later disclosure.
+Project or any Repo for the purpose of later disclosure.
 
 Participants specifically agree to hold [security reports](./Security.md) as
 Confidential subject to the Coordinated Vulnerability Disclosure process described in the [Security Policy](./SECURITY.md).
 
-## 9. Project Criteria
+## 9. Repo Criteria
 
-In order to be eligible to be a Organization project, a project must:
+In order to be eligible to be a Project repository, a Repo must:
 
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
@@ -162,7 +162,7 @@ In order to be eligible to be a Organization project, a project must:
     and maintained specification agreement, such the
     [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements)
     or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
-* Include and adhere to the Organization's "Core Policies".
+* Include and adhere to the Project's "Core Policies".
 * The Core Policies are: this TPM-RS Charter,
   the [trademark policy](./TRADEMARKS.md),
   the [antitrust policy](./ANTITRUST.md),
@@ -171,39 +171,39 @@ In order to be eligible to be a Organization project, a project must:
   the [contributor license agreement](./CONTRIBUTOR-LICENSE-AGREEMENT.md)
 * Not be for the purpose of creating industry-wide specifications.
 
-**9.1 Limitations on Specification Work** The Organization exists primarily to
+**9.1 Limitations on Specification Work** The Project exists primarily to
 implement code according to existing public specifications; creating new
 specifications is more properly a function of one or more Sponsors of the
-Origanization.  No Project in this organization will attempt to create or
+Project.  No Repo in this Project will attempt to create or
 make any Specifications that would, or might seem to, modify, augment, replace,
 or compete against Specifications created or maintained by any Sponsor.  For
 illustration, and without restricting the generality of the forgoing, any
-Specifications created in one or more Projects must only address details
-specific to the implementation of one or more Projects within this Organization.
-For example, a specification regarding how two Projects communicate, (such as
+Specifications created in one or more Repos must only address details
+specific to the implementation of one or more Repos within this Project.
+For example, a specification regarding how two Repos communicate, (such as
 for testing), would be allowed, but producing a generic network protocol
 specification that might become an industry standard would be out of scope for
-any Project in the Organization.
+any Repo in the Project.
 
-## 10. Project Governance
+## 10. Repo Governance
 
-Individual Projects will have their own GOVERNANCE.MD document that describes
-how that particular project will work.  In order to promote consistency, it is
-expected that most projects will reference and use the
-[Default Project Governance Policy](./DEFAULT-PROJECT-GOVERNANCE.md).
-However, a project may adopt custom rules subject to the approval of the
-Steering Committee provided that all projects MUST comply with the "Core
+Individual Repos will have their own GOVERNANCE.MD document that describes
+how that particular Repo will work.  In order to promote consistency, it is
+expected that most Repos will reference and use the
+[Default Repo Governance Policy](./DEFAULT-REPOSITORY-GOVERNANCE.md).
+However, a repository may adopt custom rules subject to the approval of the
+Steering Committee provided that all Repos MUST comply with the "Core
 Policies" listed above at all times.
 
 ## 11. Contributor License Agreement
 
-Notwithstanding anything else in the Charter and Project Governance documents,
+Notwithstanding anything else in the Charter and Repo Governance documents,
 all Steering Committee Members, Maintainers, and Contributors must agree to the
-Contributor License Agreement associated with any project they participate in.
+Contributor License Agreement associated with any Repo they participate in.
 
 ## 12. Not Subject To Sponsor Licenses
 
-It is intended that nothing in this Organization or this Organization's projects
+It is intended that nothing in this Project or this Project's Repos
 are subject to the licensing agreements of Sponsoring entities.  In particular,
 each Steering Committee Member and Maintainer agrees not to submit content
 subject to license agreements not listed in this charter, including but not
@@ -213,13 +213,13 @@ appropriate legal advisor, as appropriate, before making any contribution.
 
 ## 13. Sponsorship Review
 
-In consideration of the resources provided to the Organization from any active
+In consideration of the resources provided to the Project from any active
 Sponsor(s), the Steering Committee shall, at least annually, provide a written
 review of the Organizations' status and progress to such active Sponsors.  Such
 review may be provided in any form the Steering Committee may from time to time
-determine, such as by posting a review summary in the Organization's GitHub
-Wiki, or submitting documents to a Project repo.  Sponsorship Review documents
-are NOT confidential, in accordance with the No Confidentiality clause of this
+determine, such as by posting a review summary in the Project's GitHub
+Wiki, or submitting documents to a Repo.  Sponsorship Review documents
+are NOT confidential, in accordance with the Confidentiality clause of this
 charter.
 
 ## 14. Amendments
@@ -232,5 +232,5 @@ affirmative vote of the Steering Committee.
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
+See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).

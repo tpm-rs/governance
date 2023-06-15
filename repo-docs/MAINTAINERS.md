@@ -1,14 +1,14 @@
 # Maintainers
 
-This document lists the Maintainers of the Project. Maintainers may be added
+This document lists the Maintainers of the Repo. Maintainers may be added
 once approved by the existing maintainers as described in the [Governance
 document](./GOVERNANCE.md). By adding your name to this list you are agreeing to
-abide by the Project governance documents and to abide by all of the
-Organization's policies, including the
-[charter](../org-docs/CHARTER.md),
-[code of conduct](../org-docs/CODE-OF-CONDUCT.md),
-[trademark policy](../org-docs/TRADEMARKS.md), and
-[antitrust policy](../org-docs/ANTITRUST.md). If you are participating because of your
+abide by the Repo governance documents and to abide by all of the
+Project's policies, including the
+[charter](../project-docs/CHARTER.md),
+[code of conduct](../project-docs/CODE-OF-CONDUCT.md),
+[trademark policy](../project-docs/TRADEMARKS.md), and
+[antitrust policy](../project-docs/ANTITRUST.md). If you are participating because of your
 affiliation with another organization (designated below), you represent that you
 have the authority to bind that organization to these policies.
 
@@ -21,5 +21,5 @@ have the authority to bind that organization to these policies.
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
+See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
