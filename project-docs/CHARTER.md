@@ -107,6 +107,16 @@ removed or replaced (for example due to change in employment status) remains
 eligible to be elected to the Steering Committee in an individual capacity as
 provided in section 3.2.
 
+**5.4 Sponsored Seats**.  Removing a Sponsored Steering Committee member results
+in an empty "Vacated Sponsored Seat", but does not permanently remove the seat from the
+Steering Committee.  Any such vacated seat remains available and may be filled
+by the Sponsoring entity by written notice to the Steering Committee.  Vacated
+seats are inactive and do not count towards any quorum or majority requirements
+for any decisions made by the Steering Committee.  A Sponsored seat may be
+permanently abandoned by written notice from the Sponsoring entity to the
+Steering Committee. New Sponsored Seats may be created by a 3/4 majority vote of
+existing Steering Committee members.
+
 ## 6. Trademarks
 
 Any names, trademarks, service marks, logos, mascots, or similar indicators of
