@@ -13,7 +13,7 @@ machine-executable form, that is delivered by You to TCG under this
 Agreement.
 
 * “Project” means any of the repositories owned or managed by the TPM-RS Github
-Organization in which software or documentation is offered under any approved
+Project in which software or documentation is offered under any approved
 license described in the [TPM-RS Charter](./CHARTER.md).
 
 * “Submit” is the act of uploading, submitting, transmitting, or distributing

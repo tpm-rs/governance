@@ -1,11 +1,11 @@
 #  Default Repo Governance Policy
 
 This document provides the Default Repo Governance Policy for Repos within the
-TPM-RS GitHub Organization. Unless a repository contains a separate GOVERNANCE.md
+TPM-RS Project. Unless a repository contains a separate GOVERNANCE.md
 file with different rules approved by the Steering Committee, this default set
 of Repo Governance Rules apply.  Maintainers agree to this policy and to
-abide by all Organization and Repo policies, including the
-[Organization charter](../org-docs/CHARTER.md),
+abide by all Project and Repo policies, including the
+[Project charter](../org-docs/CHARTER.md),
 [code of conduct](../org-docs/CODE-OF-CONDUCT.md),
 [trademark policy](../org-docs/TRADEMARKS.md), and
 [antitrust policy](../org-docs/ANTITRUST.md) by adding their name to the
@@ -20,7 +20,7 @@ and documented by individual Repos.
 around developing, maintaining, and updating the Repo. Maintainers are also
 responsible for determining consensus. All Maintainers must agree to the
 Contributor License Agreement associated with the repository as well as the
-[Organization's Charter](../org-docs/CHARTER.md).
+[Project's Charter](../org-docs/CHARTER.md).
 
 The "Maintainer" role is granted to one or more individuals by the Steering
 Committee when a Repo is started.
@@ -43,7 +43,7 @@ associated with the Repo.
 
 The "Contributor" role is automatically acquired by any person who submits an
 Approved Pull Request and executes the Contributor License Agreement in a form
-acceptable to the Organization, which may be electronically.
+acceptable to the Project, which may be electronically.
 
 ## 2. Decisions.
 
@@ -58,7 +58,7 @@ accordance with these requirements.
 **2.2. Appeal Process**. Decisions may be appealed by opening an issue and that
 appeal will be considered by the Maintainers in good faith, who will respond in
 writing within a reasonable time. If the Maintainers deny the appeal, the appeal
-may be brought before the Organization Steering Committee, who will also respond
+may be brought before the Project Steering Committee, who will also respond
 in writing in a reasonable time.
 
 ## 3. How We Work.
@@ -76,7 +76,7 @@ resolve potential conflicts or incompatibility between releases in this Repo.
 
 **3.4. Consideration of Views and Objections**. Prompt consideration shall be
 given to the written views and objections of all Contributors.  However, final
-decisions will rest with the Maintainers and, if appealed, the Organization
+decisions will rest with the Maintainers and, if appealed, the Project
 Steering Committee.
 
 **3.5. Written procedures**. This governance document and other materials
@@ -93,19 +93,19 @@ the contrary.
 ## 5. Trademarks.
 
 Any names, trademarks, logos, or goodwill developed by and associated with the
-Repo (the "Marks") are controlled by the Organization. Maintainers may only
-use these Marks in accordance with the Organization's trademark policy. If a
+Repo (the "Marks") are controlled by the Project. Maintainers may only
+use these Marks in accordance with the Project's trademark policy. If a
 Maintainer resigns or is removed, any rights the Maintainer may have in the
-Marks revert to the Organization.
+Marks revert to the Project.
 
 ## 6. Amendments.
 
 Amendments to this Default Repo Governance Policy may be made by decision of the
-Organization's Steering Committee at any time.
+Project's Steering Committee at any time.
 
 Amendments to any Repo specific governance policies may be made by affirmative
 vote of 2/3 of all Maintainers of that Repo, subject to approval by the
-Organization's Steering Committee.
+Project's Steering Committee.
 
 # Attribution
 

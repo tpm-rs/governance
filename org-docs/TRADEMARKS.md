@@ -1,17 +1,17 @@
 ## Introduction
 
-This is the Organization's policy for the use of our trademarks. While our work
+This is the Project's policy for the use of our trademarks. While our work
 is available under free and open source software licenses, those licenses do not
 include a license to use our trademarks.
 
 This policy describes how you may use our trademarks.  Our goal is to strike a
 balance between: 1) our need to ensure that our trademarks remain reliable
 indicators of the quality software we release; and 2) our community members'
-desire to be full participants in our Organization.
+desire to be full participants in our Project.
 
 ## Our Trademarks
 
-This policy covers the name of the Organization and each of the Organization's
+This policy covers the name of the Project and each of the Project's
 Repos, as well as any associated names, trademarks, service marks, logos,
 mascots, or similar indicators of source or origin (our "Marks").
 
@@ -23,7 +23,7 @@ say you are distributing the "Mark" software when you're distributing a modified
 version of it because people will believe they are getting the same software
 that they can get directly from us when they aren't. You also cannot use our
 Marks on your website in a way that suggests that your website is an official
-Organization website or that we endorse your website. But, if true, you can say
+Project website or that we endorse your website. But, if true, you can say
 you like the "Mark" software, that you participate in the "Mark" community, that
 you are providing an unmodified version of the "Mark" software, or that you
 wrote a book describing how to use the "Mark" software.
@@ -53,7 +53,7 @@ not been changed in any way.
 
 ## Distribution of executable code that you have compiled, or modified code
 
-You may use any word marks, but not any Organization logos, to truthfully
+You may use any word marks, but not any Project logos, to truthfully
 describe the origin of the software that you are providing, that is, that the
 code you are distributing is a modification of our software. You may say, for
 example, that "this software is derived from the source code for 'Mark'
@@ -73,7 +73,7 @@ further modification is not permitted.
 
 ## Statements about your software's relation to our software
 
-You may use the word Marks, but not the Organization's logos, to truthfully
+You may use the word Marks, but not the Project's logos, to truthfully
 describe the relationship between your software and ours. Our Mark should be
 used after a verb or preposition that describes the relationship between your
 software and ours. So you may say, for example, "Bob's software for the 'Mark'

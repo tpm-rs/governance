@@ -1,5 +1,5 @@
 The organizational and repository document templates including the charter and
-other organization and repository documents are adapted from MVG-0.1-beta from
+other Project and repository documents are adapted from MVG-0.1-beta from
 GitHub.
 
 MVG-0.1-beta is Made with love by GitHub and Licensed under the

@@ -44,7 +44,7 @@ We prefer all communications to be in English.
 
 ## Coordinated Disclosure Practices
 
-The Organization follows multi-party coordinated disclosure practices, under which
+The Project follows multi-party coordinated disclosure practices, under which
 vulnerabilities are generally publicly disclosed only after mitigations are made
 available to customers. This allows the industry opportunity to triage and offer
 tested updates, workarounds, or other corrective measures before detailed
@@ -58,8 +58,8 @@ Additional information can be found at
 ## Disclaimer
 
 This Security Reporting Policy (“Policy”) does not constitute a warranty or
-alter the terms of any license with respect to any Organization-developed
-technology.  The Organization reserves the right to change or update this Policy
+alter the terms of any license with respect to any Project-developed
+technology.  The Project reserves the right to change or update this Policy
 without notice at any time and on a case-by-case basis.  Response is not
 guaranteed for any specific issue or class of issues. Your use of the
 information in this Policy or materials linked from the Policy is at your own

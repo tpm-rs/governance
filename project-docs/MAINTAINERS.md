@@ -4,7 +4,7 @@ This document lists the Maintainers of the Repo. Maintainers may be added
 once approved by the existing maintainers as described in the [Governance
 document](./GOVERNANCE.md). By adding your name to this list you are agreeing to
 abide by the Repo governance documents and to abide by all of the
-Organization's policies, including the
+Project's policies, including the
 [charter](../org-docs/CHARTER.md),
 [code of conduct](../org-docs/CODE-OF-CONDUCT.md),
 [trademark policy](../org-docs/TRADEMARKS.md), and

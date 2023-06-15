@@ -51,7 +51,7 @@ you need to provide a CLA and decorate the PR appropriately (e.g., label,
 comment). Simply follow the instructions provided by the bot. You will only need
 to do this once per Repo.-->
 
-The Repo abides by the Organization's
+The Repo abides by the Project's
 [charter](../org-docs//CHARTER.md),
 [trademark policy](../org-docs/TRADEMARKS.md),
 [antitrust policy](../org-docs/ANTITRUST.md),
