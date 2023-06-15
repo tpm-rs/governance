@@ -5,10 +5,10 @@ TPM-RS Project. Unless a repository contains a separate GOVERNANCE.md
 file with different rules approved by the Steering Committee, this default set
 of Repo Governance Rules apply.  Maintainers agree to this policy and to
 abide by all Project and Repo policies, including the
-[Project charter](../org-docs/CHARTER.md),
-[code of conduct](../org-docs/CODE-OF-CONDUCT.md),
-[trademark policy](../org-docs/TRADEMARKS.md), and
-[antitrust policy](../org-docs/ANTITRUST.md) by adding their name to the
+[Project charter](../project-docs/CHARTER.md),
+[code of conduct](../project-docs/CODE-OF-CONDUCT.md),
+[trademark policy](../project-docs/TRADEMARKS.md), and
+[antitrust policy](../project-docs/ANTITRUST.md) by adding their name to the
 [maintainers.md file](./MAINTAINERS.md).
 
 ## 1. Roles.
@@ -20,7 +20,7 @@ and documented by individual Repos.
 around developing, maintaining, and updating the Repo. Maintainers are also
 responsible for determining consensus. All Maintainers must agree to the
 Contributor License Agreement associated with the repository as well as the
-[Project's Charter](../org-docs/CHARTER.md).
+[Project's Charter](../project-docs/CHARTER.md).
 
 The "Maintainer" role is granted to one or more individuals by the Steering
 Committee when a Repo is started.
@@ -110,5 +110,5 @@ Project's Steering Committee.
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.  See
-[Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md).
+[Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md).
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).

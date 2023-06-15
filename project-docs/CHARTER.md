@@ -232,5 +232,5 @@ affirmative vote of the Steering Committee.
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
+See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).

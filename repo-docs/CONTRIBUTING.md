@@ -42,7 +42,7 @@ This repository welcomes contributions and suggestions. Most contributions requi
 you to agree to a Contributor License Agreement (CLA) declaring that you have
 the right to, and actually do, grant us the rights to use your contribution. For
 details, visit
-[Contributor License Agreement](../org-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md).
+[Contributor License Agreement](../project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md).
 
 [TBD Details on how to sign the CLA]
 
@@ -52,14 +52,14 @@ comment). Simply follow the instructions provided by the bot. You will only need
 to do this once per Repo.-->
 
 The Repo abides by the Project's
-[charter](../org-docs//CHARTER.md),
-[trademark policy](../org-docs/TRADEMARKS.md),
-[antitrust policy](../org-docs/ANTITRUST.md),
+[charter](../project-docs//CHARTER.md),
+[trademark policy](../project-docs/TRADEMARKS.md),
+[antitrust policy](../project-docs/ANTITRUST.md),
 the [Security Policy](./SECURITY.md),
-and [code of conduct](../org-docs/CODE-OF-CONDUCT.md).
+and [code of conduct](../project-docs/CODE-OF-CONDUCT.md).
 
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../org-docs/ACKNOWLEDGEMENTS.md)
+See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
 Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
