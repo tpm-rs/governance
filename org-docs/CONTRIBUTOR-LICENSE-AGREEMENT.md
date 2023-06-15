@@ -3,7 +3,7 @@
 This Contribution License Agreement (“Agreement”) is agreed to by the party
 signing below (“You”), and conveys certain license rights to Trusted Computing
 Group, TPM-RS Contributors and their affiliates (collectively "TCG") for Your
-contributions to any TPM-RS open source projects. This Agreement is effective as of
+contributions to any TPM-RS open source Repositories/Repos. This Agreement is effective as of
 the latest signature date below.
 
 1. Definitions.
@@ -12,9 +12,9 @@ the latest signature date below.
 machine-executable form, that is delivered by You to TCG under this
 Agreement.
 
-* “Project” means any of the projects owned or managed by TCG in which software
-or documentation is offered under any approved license described in the
-[Charter](./CHARTER.md).
+* “Project” means any of the repositories owned or managed by the TPM-RS Github
+Organization in which software or documentation is offered under any approved
+license described in the [TPM-RS Charter](./CHARTER.md).
 
 * “Submit” is the act of uploading, submitting, transmitting, or distributing
 code or other content to any Project, including but not limited to communication

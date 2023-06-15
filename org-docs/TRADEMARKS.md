@@ -12,7 +12,7 @@ desire to be full participants in our Organization.
 ## Our Trademarks
 
 This policy covers the name of the Organization and each of the Organization's
-projects, as well as any associated names, trademarks, service marks, logos,
+Repos, as well as any associated names, trademarks, service marks, logos,
 mascots, or similar indicators of source or origin (our "Marks").
 
 ## In General
@@ -48,7 +48,7 @@ In addition:
 When you redistribute an unmodified copy of our software, you are not changing
 the quality or nature of it. Therefore, you may retain the Marks we have placed
 on the software to identify your redistribution. This kind of use only applies
-if you are redistributing an official distribution from this Project that has
+if you are redistributing an official distribution from this Repo that has
 not been changed in any way.
 
 ## Distribution of executable code that you have compiled, or modified code
@@ -66,7 +66,7 @@ you should not use our Marks.
 
 However, you may use our Marks for the distribution of code (source or
 executable) on the condition that any executable is built from the official
-Project source code and that any modifications are limited to switching on or
+Repo source code and that any modifications are limited to switching on or
 off features already included in the software, translations into other
 languages, and incorporating minor bug-fix patches. Use of our Marks on any
 further modification is not permitted.

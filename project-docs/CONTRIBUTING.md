@@ -7,15 +7,15 @@ Security sensitive bugs should be reported to
 
 # Guideline for submitting changes:
 
-This Project welcomes contributions, suggestions, and feedback. All
+This Repo welcomes contributions, suggestions, and feedback. All
 contributions, suggestions, and feedback you submitted are accepted under the
-[Project's license](./LICENSE.md). You represent that if you do not own
+[Repo's license](./LICENSE.md). You represent that if you do not own
 copyright in the code that you have the authority to submit it under the
-[Project's license](./LICENSE.md). Other than security sensitive bug reports, any
+[Repo's license](./LICENSE.md). Other than security sensitive bug reports, any
 feedback, suggestions, or contributions are NOT confidential, regardless of markings
 otherwise.
 
-This Project implements official public TPM Library Specification releases and
+This Repo implements official public TPM Library Specification releases and
 errata from the Trusted Computing Group ("TCG") along with related supplementary
 tools and libraries:
 
@@ -38,7 +38,7 @@ https://trustedcomputinggroup.org/membership/.
 
 # Contributing
 
-This project welcomes contributions and suggestions. Most contributions require
+This repository welcomes contributions and suggestions. Most contributions require
 you to agree to a Contributor License Agreement (CLA) declaring that you have
 the right to, and actually do, grant us the rights to use your contribution. For
 details, visit
@@ -49,9 +49,9 @@ details, visit
 <!--When you submit a pull request, a CLA-bot will automatically determine whether
 you need to provide a CLA and decorate the PR appropriately (e.g., label,
 comment). Simply follow the instructions provided by the bot. You will only need
-to do this once per Project.-->
+to do this once per Repo.-->
 
-The Project abides by the Organization's
+The Repo abides by the Organization's
 [charter](../org-docs//CHARTER.md),
 [trademark policy](../org-docs/TRADEMARKS.md),
 [antitrust policy](../org-docs/ANTITRUST.md),
