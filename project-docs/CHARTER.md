@@ -26,7 +26,7 @@ preference for the Rust langauge is based on its memory-safety properties, but
 our Mission does not preclude the use of other languages for any use the
 Steering Committee or Repo Maintainers may from time-to-time approve.
 
-## 3. Roles.
+## 3. Roles
 
 This Project may include the following roles. Additional roles may be
 adopted and documented by individual Repos as described in Repo Governance
@@ -166,10 +166,10 @@ In order to be eligible to be a Project repository, a Repo must:
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
 * Use only the following outbound licenses or agreements unless otherwise approved:
-  - For code, the [Apache-2.0 license].
-  - For data, a license on the Open Knowledge Foundation's list of
+  * For code, the [Apache-2.0 license].
+  * For data, a license on the Open Knowledge Foundation's list of
     [Recommended Conformant Licenses].
-  - For specifications, subject to limits described below, a community developed
+  * For specifications, subject to limits described below, a community developed
     and maintained specification agreement, such the
     [Open Web Foundation Agreements] or [Community Specification Agreement].
 * Include and adhere to the Project's "Core Policies".
@@ -240,11 +240,10 @@ the [Security Policy], and the [Contributor License Agreement]
 may only be made with at least a 3/4
 affirmative vote of the Steering Committee.
 
-# Attribution
+## Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
 See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
-
 
 [Antitrust Policy]: ./ANTITRUST.md
 [Apache-2.0 license]: https://opensource.org/license/apache-2-0

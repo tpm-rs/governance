@@ -23,8 +23,7 @@ have the authority to bind that organization to these policies.
 | Maintainer 1 | | |
 | Maintainer 2 | | |
 
-
-# Attribution
+## Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
 See [Attribution and Acknowledgements]

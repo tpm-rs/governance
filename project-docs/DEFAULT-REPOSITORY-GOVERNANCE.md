@@ -1,4 +1,4 @@
-#  Default Repo Governance Policy
+# Default Repo Governance Policy
 
 This document provides the Default Repo Governance Policy for Repos within the
 TPM-RS Project. Unless a repository contains a separate GOVERNANCE.md
@@ -14,7 +14,7 @@ abide by all Project and Repo policies, including the
 * [Security Policy], and
 * the [Contributor License Agreement]
 
-## 1. Roles.
+## 1. Roles
 
 This repository may include the following roles. Additional roles may be adopted
 and documented by individual Repos.
@@ -48,7 +48,7 @@ The "Contributor" role is automatically acquired by any person who submits an
 Approved Pull Request and executes the Contributor License Agreement in a form
 acceptable to the Project, which may be electronically.
 
-## 2. Decisions.
+## 2. Decisions
 
 **2.1. Consensus-Based Decision Making**. Repos make decisions through
 consensus of the Maintainers. While explicit agreement of all Maintainers is
@@ -64,7 +64,7 @@ writing within a reasonable time. If the Maintainers deny the appeal, the appeal
 may be brought before the Project Steering Committee, who will also respond
 in writing in a reasonable time.
 
-## 3. How We Work.
+## 3. How We Work
 
 **3.1. Openness**. Participation is open to anyone who is directly and
 materially affected by the activity in question. There shall be no undue
@@ -86,14 +86,14 @@ Steering Committee.
 documenting this repository's development process shall be available to any
 interested person.
 
-## 4. No Confidentiality.
+## 4. No Confidentiality
 
 Information disclosed in connection with any Repo activity, except security
 sensitive bug reports, including but not limited to meetings, contributions, and
 submissions, is not confidential, regardless of any markings or statements to
 the contrary.
 
-## 5. Trademarks.
+## 5. Trademarks
 
 Any names, trademarks, logos, or goodwill developed by and associated with the
 Repo (the "Marks") are controlled by the Project. Maintainers may only
@@ -101,7 +101,7 @@ use these Marks in accordance with the Project's trademark policy. If a
 Maintainer resigns or is removed, any rights the Maintainer may have in the
 Marks revert to the Project.
 
-## 6. Amendments.
+## 6. Amendments
 
 Amendments to this Default Repo Governance Policy may be made by decision of the
 Project's Steering Committee at any time.
@@ -110,12 +110,11 @@ Amendments to any Repo specific governance policies may be made by affirmative
 vote of 2/3 of all Maintainers of that Repo, subject to approval by the
 Project's Steering Committee.
 
-# Attribution
+## Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.  See
 [Attribution and Acknowledgements].
 Licensed under the [CC-BY 4.0 License].
-
 
 [Antitrust Policy]: ./ANTITRUST.md
 [Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
