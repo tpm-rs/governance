@@ -2,7 +2,7 @@
 
 This is the organizational charter for the TPM-RS Project (the
 "Project"). By adding their name to the
-[Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members
+[Steering Committee List], Steering Committee members
 agree as follows.
 
 ## 1. Sponsorship
@@ -123,7 +123,7 @@ Any names, trademarks, service marks, logos, mascots, or similar indicators of
 source or origin and the goodwill associated with them arising out of the
 Project's activities or Project Repos' activities (the "Marks"),
 are controlled by the Project. Steering Committee members may only use the
-Marks in accordance with the Project's [trademark policy](./TRADEMARKS.md).
+Marks in accordance with the Project's [Trademark Policy].
 If a Steering Committee member is terminated or removed from the Steering
 Committee, any rights the Steering Committee member may have in the Marks revert
 to the Project.
@@ -135,14 +135,14 @@ Repo under the Project's charter remain the property of such Sponsoring
 entity.  No contributor or participant of the Project may use Sponsor Marks
 without explicit, separate permission from such entity.  The only exception to
 this rule is using the name of the sponsoring entity in the
-[Steering Committee.md file](./STEERING-COMMITTEE.md) to designate Steering Committee
+[Steering Committee List] to designate Steering Committee
 members who are "Sponsored" and thus subject to revocation as described in
 Section 5.3 Sponsor Revocation above."
 
 ## 7. Antitrust Policy
 
 The Steering Committee is bound by the Project's
-[antitrust policy](./ANTITRUST.md).
+[Antitrust Policy].
 
 ## 8. Confidentiality
 
@@ -155,8 +155,9 @@ However, nothing in this section requires individual Participants to
 document or record any particular proceedings or activity related to the
 Project or any Repo for the purpose of later disclosure.
 
-Participants specifically agree to hold [security reports](./Security.md) as
-Confidential subject to the Coordinated Vulnerability Disclosure process described in the [Security Policy](./SECURITY.md).
+Participants specifically agree to hold [Security Reports] as
+Confidential subject to the Coordinated Vulnerability Disclosure process described in
+the [Security Policy].
 
 ## 9. Repo Criteria
 
@@ -165,20 +166,19 @@ In order to be eligible to be a Project repository, a Repo must:
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
 * Use only the following outbound licenses or agreements unless otherwise approved:
-  - For code, the [Apache-2.0 license](https://opensource.org/license/apache-2-0/).
+  - For code, the [Apache-2.0 license].
   - For data, a license on the Open Knowledge Foundation's list of
-    [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
+    [Recommended Conformant Licenses].
   - For specifications, subject to limits described below, a community developed
     and maintained specification agreement, such the
-    [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements)
-    or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
+    [Open Web Foundation Agreements] or [Community Specification Agreement].
 * Include and adhere to the Project's "Core Policies".
-* The Core Policies are: this TPM-RS Charter,
-  the [trademark policy](./TRADEMARKS.md),
-  the [antitrust policy](./ANTITRUST.md),
-  the [code of conduct](./CODE-OF-CONDUCT.md)
-  the [Security Policy](./SECURITY.md), and
-  the [contributor license agreement](./CONTRIBUTOR-LICENSE-AGREEMENT.md)
+* The Core Policies are: this [TPM-RS Charter],
+  the [Trademark Policy],
+  the [Antitrust Policy],
+  the [Code of Conduct],
+  the [Security Policy], and
+  the [Contributor License Agreement]
 * Not be for the purpose of creating industry-wide specifications.
 
 **9.1 Limitations on Specification Work** The Project exists primarily to
@@ -200,7 +200,7 @@ any Repo in the Project.
 Individual Repos will have their own GOVERNANCE.MD document that describes
 how that particular Repo will work.  In order to promote consistency, it is
 expected that most Repos will reference and use the
-[Default Repo Governance Policy](./DEFAULT-REPOSITORY-GOVERNANCE.md).
+[Default Repo Governance Policy].
 However, a repository may adopt custom rules subject to the approval of the
 Steering Committee provided that all Repos MUST comply with the "Core
 Policies" listed above at all times.
@@ -234,13 +234,30 @@ charter.
 
 ## 14. Amendments
 
-Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the
-[trademark policy](./TRADEMARKS.md), or the
-[code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4
+Amendments to this [TPM-RS Charter], the [Antitrust Policy], the
+[Trademark Policy], the [Code of Conduct],
+the [Security Policy], and the [Contributor License Agreement]
+may only be made with at least a 3/4
 affirmative vote of the Steering Committee.
 
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
-See [Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md)
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
+
+
+[Antitrust Policy]: ./ANTITRUST.md
+[Apache-2.0 license]: https://opensource.org/license/apache-2-0
+[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
+[Code of Conduct]: ./CODE-OF-CONDUCT.md
+[Community Specification Agreement]: https://github.com/CommunitySpecification/1.0.
+[Contributor License Agreement]: ./CONTRIBUTOR-LICENSE-AGREEMENT.md
+[Default Repo Governance Policy]: ./DEFAULT-REPOSITORY-GOVERNANCE.md
+[Open Web Foundation Agreements]: https://www.openwebfoundation.org/the-agreements
+[Recommended Conformant Licenses]: http://opendefinition.org/licenses
+[Security Policy]: ./SECURITY.md
+[Security Reports]: ./SECURITY.md
+[Steering Committee List]: ./STEERING-COMMITTEE.md
+[TPM-RS Charter]: ./CHARTER.md
+[Trademark Policy]: ./TRADEMARKS.md

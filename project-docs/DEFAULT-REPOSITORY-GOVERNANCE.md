@@ -3,13 +3,16 @@
 This document provides the Default Repo Governance Policy for Repos within the
 TPM-RS Project. Unless a repository contains a separate GOVERNANCE.md
 file with different rules approved by the Steering Committee, this default set
-of Repo Governance Rules apply.  Maintainers agree to this policy and to
+of Repo Governance Rules apply.  By adding their name to the [Maintainers List],
+Maintainers agree to this [Default Repo Governance Policy] and to
 abide by all Project and Repo policies, including the
-[Project charter](../project-docs/CHARTER.md),
-[code of conduct](../project-docs/CODE-OF-CONDUCT.md),
-[trademark policy](../project-docs/TRADEMARKS.md), and
-[antitrust policy](../project-docs/ANTITRUST.md) by adding their name to the
-[maintainers.md file](./MAINTAINERS.md).
+
+* [TPM-RS Charter],
+* [Trademark Policy],
+* [Antitrust Policy],
+* [Code of Conduct],
+* [Security Policy], and
+* the [Contributor License Agreement]
 
 ## 1. Roles.
 
@@ -20,7 +23,7 @@ and documented by individual Repos.
 around developing, maintaining, and updating the Repo. Maintainers are also
 responsible for determining consensus. All Maintainers must agree to the
 Contributor License Agreement associated with the repository as well as the
-[Project's Charter](../project-docs/CHARTER.md).
+[TPM-RS Charter].
 
 The "Maintainer" role is granted to one or more individuals by the Steering
 Committee when a Repo is started.
@@ -110,5 +113,17 @@ Project's Steering Committee.
 # Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.  See
-[Attribution and Acknowledgements](../project-docs/ACKNOWLEDGEMENTS.md).
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+[Attribution and Acknowledgements].
+Licensed under the [CC-BY 4.0 License].
+
+
+[Antitrust Policy]: ./ANTITRUST.md
+[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
+[Code of Conduct]: ./CODE-OF-CONDUCT.md
+[Contributor License Agreement]: ./CONTRIBUTOR-LICENSE-AGREEMENT.md
+[Default Repo Governance Policy]: ./DEFAULT-REPOSITORY-GOVERNANCE.md
+[Maintainers List]: ./MAINTAINERS.md
+[Security Policy]: ./SECURITY.md
+[TPM-RS Charter]: ./CHARTER.md
+[Trademark Policy]: ./TRADEMARKS.md
