@@ -2,6 +2,7 @@
 
 This document lists the members of the TPM-RS Steering Committee. Voting
 members may be added once approved by the Steering Committee as described in the
+
 [TPM-RS Charter]. By adding your name to this list you are agreeing to
 abide by all Project policies including the
 
@@ -18,7 +19,7 @@ that organization to these policies.
 
 Please enter names sorted by alphabetical order.
 
-| **NAME** | **Handle** | **Sponsoring Organization** | **TCG Member** |
+| **NAME** | **Github Handle** | **Sponsoring Organization** | **TCG Member** |
 |--------------|-----------|------------|---|
 | Brad Litterell | bradlitterell | Microsoft | yes |
 | Chris Fenner | chrisfenner | Google | yes |
