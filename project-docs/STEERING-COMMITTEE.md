@@ -33,11 +33,10 @@ Notes:
 2. Sponsored Seats may be vacated, but are only removed permanently by the process
 described in the Charter.
 
-# Attribution
+## Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
 See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
-
 
 [Antitrust Policy]: ./ANTITRUST.md
 [Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md

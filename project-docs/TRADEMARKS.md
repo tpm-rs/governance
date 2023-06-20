@@ -1,3 +1,5 @@
+# Trademark Policy
+
 ## Introduction
 
 This is the Project's policy for the use of our trademarks. While our work
@@ -33,6 +35,7 @@ getting and from whom, is reflected throughout this policy. It should also serve
 as your guide if you are not sure about how you are using the Marks.
 
 In addition:
+
 * You may not use or register, in whole or in part, the Marks as part of your
   own trademark, service mark, domain name, company name, trade name, product
   name or service name.
@@ -86,7 +89,7 @@ work for you are:
 * [Your software] for use with "Mark" software
 * [Your software] for Mark software
 
-# Attribution
+## Attribution
 
 These guidelines are based on the [Model Trademark Guidelines], used under a
 [Creative Commons Attribution 3.0 Unported license].
