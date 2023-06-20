@@ -60,7 +60,7 @@ Non-sponsored Community contributors may be included in the Steering Committee
 from time to time at the Steering Committee's discretion as described below.
 
 **3.2 Composition**. The Steering Committee voting members are listed in the
-steering-committee.md file in the repository. Voting members may be added or
+[Steering Committee List] file in the repository. Voting members may be added or
 removed by no less than 3/4 affirmative vote of the Steering Committee. The
 Steering Committee will appoint a Chair responsible for organizing Steering
 Committee activity.
@@ -106,6 +106,16 @@ without a vote with written notice to the Steering Committee.  A member so
 removed or replaced (for example due to change in employment status) remains
 eligible to be elected to the Steering Committee in an individual capacity as
 provided in section 3.2.
+
+**5.4 Effect of Termination**.  Upon the removal of a non-Sponsored Steering
+Committee member, that position on the Steering Committee is permanently
+removed.  When a Sponsored Steering Committee member is removed for any reason,
+their position on the Steering Committee becomes vacant and may be filled by
+the Sponsoring entity by written notice to the Steering Committee.  Such vacated
+seats are inactive and do not count towards any quorum or majority requirements
+for any decisions made by the Steering Committee until a successor is
+appointed.  A Sponsored seat may be permanently abandoned and be removed by
+written notice from the Sponsoring entity to the Steering Committee.
 
 ## 6. Trademarks
 
