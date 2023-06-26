@@ -2,7 +2,6 @@
 
 This document lists the members of the TPM-RS Steering Committee. Voting
 members may be added once approved by the Steering Committee as described in the
-
 [TPM-RS Charter]. By adding your name to this list you are agreeing to
 abide by all Project policies including the
 
