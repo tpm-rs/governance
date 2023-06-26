@@ -53,11 +53,10 @@ Repo agreements as outlined in this charter.
 
 **3.1 Purpose**. The Steering Committee will be responsible for all technical
 oversight, Repo approval and oversight, policy oversight, and trademark
-management for the Project.  Sponsoring companies may influence the
-direction of the Project through the Steering Committee as described below,
-but the Steering Committee is not limited to Sponsored individuals and entities.
-Non-sponsored Community contributors may be included in the Steering Committee
-from time to time at the Steering Committee's discretion as described below.
+management for the Project.  All Steering Committee members will be sponsored
+by a sponsoring Trusted Computing Group (TCG) member company, or TCG itself.
+Sponsoring companies may influence the direction of the Project through the
+Steering Committee as described below.
 
 **3.2 Composition**. The Steering Committee voting members are listed in the
 [Steering Committee List] file in the repository. Voting members may be added or
@@ -65,11 +64,9 @@ removed by no less than 3/4 affirmative vote of the Steering Committee. The
 Steering Committee will appoint a Chair responsible for organizing Steering
 Committee activity.
 
-Steering Committee members are individuals, but may be "Sponsored" by one or
-more corporate entities that are Members of the Trusted Computing Group at
-either the Associate, Contributor, or Promoter level. Steering Committee members
-are not required to be sponsored by any particular entity outside of their
-individual capacity.
+Steering Committee members are individuals, but are "Sponsored" by either TCG
+itself, or a member company of TCG at either the Associate, Contributor, or
+Promoter level.
 
 ## 4. Voting
 
@@ -102,20 +99,19 @@ more than three months the Steering Committee may vote to remove the member.
 
 **5.3 Sponsor Revocation**. If a member was sponsored by a TCG Member company,
 that Sponsoring company may remove or replace such Steering Committee member
-without a vote with written notice to the Steering Committee.  A member so
-removed or replaced (for example due to change in employment status) remains
-eligible to be elected to the Steering Committee in an individual capacity as
-provided in section 3.2.
+without a vote with written notice to the Steering Committee.  If the member
+was sponsored by TCG itself, the TCG Board of Directors may provide this notice.
+A member so removed or replaced (for example due to change in employment status)
+remains eligible to be elected to the Steering Committee sponsored by another
+entity.
 
-**5.4 Effect of Termination**.  Upon the removal of a non-Sponsored Steering
-Committee member, that position on the Steering Committee is permanently
-removed.  When a Sponsored Steering Committee member is removed for any reason,
-their position on the Steering Committee becomes vacant and may be filled by
-the Sponsoring entity by written notice to the Steering Committee.  Such vacated
-seats are inactive and do not count towards any quorum or majority requirements
-for any decisions made by the Steering Committee until a successor is
-appointed.  A Sponsored seat may be permanently abandoned and be removed by
-written notice from the Sponsoring entity to the Steering Committee.
+**5.4 Effect of Termination**.  When a Sponsored Steering Committee member is
+removed for any reason, their position on the Steering Committee becomes vacant
+and may be filled by the Sponsoring entity by written notice to the Steering
+Committee.  Such vacated seats are inactive and do not count towards any quorum
+or majority requirements for any decisions made by the Steering Committee until
+a successor is appointed.  A Sponsored seat may be permanently abandoned and be
+removed by written notice from the Sponsoring entity to the Steering Committee.
 
 ## 6. Trademarks
 
@@ -136,8 +132,7 @@ entity.  No contributor or participant of the Project may use Sponsor Marks
 without explicit, separate permission from such entity.  The only exception to
 this rule is using the name of the sponsoring entity in the
 [Steering Committee List] to designate Steering Committee
-members who are "Sponsored" and thus subject to revocation as described in
-Section 5.3 Sponsor Revocation above."
+memberss sponsorship, subject to Section 5.3 Sponsor Revocation above."
 
 ## 7. Antitrust Policy
 
