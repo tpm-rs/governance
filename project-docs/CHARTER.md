@@ -54,7 +54,7 @@ Repo agreements as outlined in this charter.
 **3.1 Purpose**. The Steering Committee will be responsible for all technical
 oversight, Repo approval and oversight, policy oversight, and trademark
 management for the Project.  All Steering Committee members will be sponsored
-by a sponsoring Trusted Computing Group (TCG) member company, or TCG itself.
+by a Trusted Computing Group (TCG) member company, or TCG itself.
 Sponsoring companies may influence the direction of the Project through the
 Steering Committee as described below.
 
@@ -132,7 +132,7 @@ entity.  No contributor or participant of the Project may use Sponsor Marks
 without explicit, separate permission from such entity.  The only exception to
 this rule is using the name of the sponsoring entity in the
 [Steering Committee List] to designate Steering Committee
-memberss sponsorship, subject to Section 5.3 Sponsor Revocation above."
+members' sponsorship, subject to Section 5.3 Sponsor Revocation above."
 
 ## 7. Antitrust Policy
 
