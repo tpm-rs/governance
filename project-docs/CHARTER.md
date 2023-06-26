@@ -16,9 +16,9 @@ providing resources to the Project as Sponsors.
 
 ## 2. Mission
 
-The TPM-RS Project exists to organize and manage a set of related,
-Open-Source repositories ("Repos") sponsored by the Trusted Computing Group (TCG) and created
-by TCG Promoter & Contributor Members
+The TPM-RS Project exists to organize and manage a set of related, Open-Source
+repositories ("Repos") sponsored by the Trusted Computing Group (TCG) and
+created by TCG Promoter & Contributor Members.
 
 The Mission of the TPM-RS Project is to support the development of
 TPM-related firmware and tools primarily using the Rust language.  This
