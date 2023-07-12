@@ -191,7 +191,7 @@ for testing), would be allowed, but producing a generic network protocol
 specification that might become an industry standard would be out of scope for
 any Repo in the Project.
 
-**9.1 Relationship to TCG Specifications** The Project implements official public
+**9.2 Relationship to TCG Specifications** The Project implements official public
 [TPM Library Specification] releases and errata from the TCG along with related
 supplementary tools and libraries. Suggestions to revise TCG publications (e.g.
 the addition of new commands or language in the TCG TPM Library specification)
