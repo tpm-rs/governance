@@ -17,12 +17,12 @@ providing resources to the Project as Sponsors.
 ## 2. Mission
 
 The TPM-RS Project exists to organize and manage a set of related, Open-Source
-repositories ("Repos") sponsored by the Trusted Computing Group (TCG) and
+repositories ("Repos") sponsored by the [Trusted Computing Group] (TCG) and
 created by TCG Promoter & Contributor Members.
 
 The Mission of the TPM-RS Project is to support the development of
 TPM-related firmware and tools primarily using the Rust language.  This
-preference for the Rust langauge is based on its memory-safety properties, but
+preference for the Rust language is based on its memory-safety properties, but
 our Mission does not preclude the use of other languages for any use the
 Steering Committee or Repo Maintainers may from time-to-time approve.
 
@@ -190,6 +190,14 @@ for testing), would be allowed, but producing a generic network protocol
 specification that might become an industry standard would be out of scope for
 any Repo in the Project.
 
+**9.1 Relationship to TCG Specifications** The Project implements official public
+[TPM Library Specification] releases and errata from the TCG along with related
+supplementary tools and libraries. Suggestions to revise TCG publications (e.g.
+the addition of new commands or language in the TCG TPM Library specification)
+must first be approved by TCG voting members and published in a TCG
+Specification.  Relevant suggestions should be directed towards the TPM working
+group within the TCG via [admin@trustedcomputinggroup.org].
+
 ## 10. Repo Governance
 
 Individual Repos will have their own GOVERNANCE.MD document that describes
@@ -254,4 +262,6 @@ See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
 [Security Reports]: ./SECURITY.md
 [Steering Committee List]: ./STEERING-COMMITTEE.md
 [TPM-RS Charter]: ./CHARTER.md
+[TPM Library Specification]: https://trustedcomputinggroup.org/tpm-library-specification/
 [Trademark Policy]: ./TRADEMARKS.md
+[Trusted Computing Group]: https://github.com/TrustedComputingGroup
