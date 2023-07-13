@@ -84,7 +84,7 @@ reached, the Steering Committee will make the decision by a vote.
 notice to the Steering Committee, setting out a discussion period and a separate
 voting period. Any discussion may be conducted in person or electronically by
 text, voice, or video. The discussion will be open to the public. In any vote,
-each voting representative will have one vote. Except as specifically noted
+each Sponsoring organization will have one vote. Except as specifically noted
 elsewhere in this Charter, decisions by vote require a simple majority vote of
 all voting members.
 
