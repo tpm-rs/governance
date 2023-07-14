@@ -57,6 +57,7 @@ The Repo abides by the:
 * [Trademark Policy],
 * [Antitrust Policy],
 * [Code of Conduct],
+* [Repo's License],
 * [Security Policy], and
 * the [Contributor License Agreement]
 
@@ -67,14 +68,14 @@ See [Attribution and Acknowledgements].
 Licensed under the [CC-BY 4.0 License].
 
 [admin@trustedcomputinggroup.org]: mailto:admin@trustedcomputinggroup.org
-[Antitrust Policy]: ./ANTITRUST.md
-[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[Antitrust Policy]: https://github.com/tpm-rs/governance/blob/main/project-docs/ANTITRUST.md
+[Attribution and Acknowledgements]: https://github.com/tpm-rs/governance/blob/main/project-docs/ACKNOWLEDGEMENTS.md
 [CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
-[Code of Conduct]: ../project-docs/CODE-OF-CONDUCT.md
-[Contributor License Agreement]: ../project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md
-[Security Policy]: ../project-docs/SECURITY.md
-[TPM-RS Charter]: ../project-docs/CHARTER.md
-[Trademark Policy]: ../project-docs/TRADEMARKS.md
+[Code of Conduct]: https://github.com/tpm-rs/governance/blob/main/project-docs/CODE-OF-CONDUCT.md
+[Contributor License Agreement]: https://github.com/tpm-rs/governance/blob/main/project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md
+[Security Policy]: https://github.com/tpm-rs/governance/blob/main/project-docs/SECURITY.md
+[TPM-RS Charter]: https://github.com/tpm-rs/governance/blob/main/project-docs/CHARTER.md
+[Trademark Policy]: https://github.com/tpm-rs/governance/blob/main/project-docs/TRADEMARKS.md
 [Repo's license]: ./LICENSE.md
 [security-tpm-rs@trustedcomputinggroup.org]: mailto:security-tpm-rs@trustedcomputinggroup.org
 [Trusted Computing Group]: https://github.com/TrustedComputingGroup
