@@ -20,23 +20,31 @@ Please enter names sorted by alphabetical order.
 
 | **NAME** | **Github Handle** | **Sponsoring Organization** | **TCG Member** |
 |--------------|-----------|------------|---|
-| Brad Litterell | bradlitterell | Microsoft | yes |
-| Chris Fenner | chrisfenner | Google | yes |
-| Darren Krahn | darrenkrahn | Google | yes |
-| Dennis Mattoon | dmattoon | Microsoft | yes |
-| TCG Executive Director | tcgAdmin | Trusted Computing Group | yes |
+| Brad Litterell | [@bradlitterell] | Microsoft | yes |
+| Chris Fenner | [@chrisfenner] | Google | yes |
+| Dennis Mattoon | [@dmattoon] | Microsoft | yes |
+| Joe Richey | [@josephlr] | Google | yes |
+| TCG Executive Director | [@tcgAdmin] | Trusted Computing Group | yes |
 
 Notes:
 
 1. TCG Member means a member of the Trusted Computing Group.
 2. Sponsored Seats may be vacated, but are only removed permanently by the process
 described in the Charter.
+3. When adding or removing members, update
+[@tpm-rs/steering-committee] to reflect any changes.
 
 ## Attribution
 
 This document adapted from MVG-0.1-beta from GitHub.
 See [Attribution and Acknowledgements]. Licensed under the [CC-BY 4.0 License].
 
+[@bradlitterell]: https://github.com/bradlitterell
+[@chrisfenner]: https://github.com/chrisfenner
+[@dmattoon]: https://github.com/dmattoon
+[@josephlr]: https://github.com/josephlr
+[@tcgAdmin]: https://github.com/tcgAdmin
+[@tpm-rs/steering-committee]: https://github.com/orgs/tpm-rs/teams/steering-committee
 [Antitrust Policy]: ./ANTITRUST.md
 [Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
 [CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
