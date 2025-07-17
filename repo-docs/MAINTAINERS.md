@@ -10,7 +10,7 @@ Project's policies, including the
 * [Trademark Policy],
 * [Antitrust Policy],
 * [Code of Conduct],
-* [Repo license],
+* [Repo's License],
 * [Security Policy], and
 * the [Contributor License Agreement].
 
@@ -20,8 +20,6 @@ have the authority to bind that organization to these policies.
 
 | **NAME** | **Organization** | **TCG Member (optional)** |
 | --- | --- | --- |
-| Maintainer 1 | | |
-| Maintainer 2 | | |
 
 ## Attribution
 
@@ -29,13 +27,12 @@ This document adapted from MVG-0.1-beta from GitHub.
 See [Attribution and Acknowledgements]
 Licensed under the [CC-BY 4.0 License].
 
-[Antitrust Policy]: ./ANTITRUST.md
-[Attribution and Acknowledgements]: ../project-docs/ACKNOWLEDGEMENTS.md
+[Antitrust Policy]: https://github.com/tpm-rs/governance/blob/main/project-docs/ANTITRUST.md
+[Attribution and Acknowledgements]: https://github.com/tpm-rs/governance/blob/main/project-docs/ACKNOWLEDGEMENTS.md
 [CC-BY 4.0 License]: https://creativecommons.org/licenses/by-sa/4.0/
-[Code of Conduct]: ../project-docs/CODE-OF-CONDUCT.md
-[Contributor License Agreement]: ../project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md
-[Repo Governance]: ./GOVERNANCE.md
-[Repo license]: ./LICENSE.md
-[Security Policy]: ../project-docs/SECURITY.md
-[TPM-RS Charter]: ../project-docs/CHARTER.md
-[Trademark Policy]: ../project-docs/TRADEMARKS.md
+[Code of Conduct]: https://github.com/tpm-rs/governance/blob/main/project-docs/CODE-OF-CONDUCT.md
+[Contributor License Agreement]: https://github.com/tpm-rs/governance/blob/main/project-docs/CONTRIBUTOR-LICENSE-AGREEMENT.md
+[Repo's License]: ./LICENSE.md
+[Security Policy]: https://github.com/tpm-rs/governance/blob/main/project-docs/SECURITY.md
+[TPM-RS Charter]: https://github.com/tpm-rs/governance/blob/main/project-docs/CHARTER.md
+[Trademark Policy]: https://github.com/tpm-rs/governance/blob/main/project-docs/TRADEMARKS.md
